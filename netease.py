@@ -68,4 +68,5 @@ def main_handler(event, context):
     return a
 
 
-main_handler(123, 231)
+#main_handler(123, 231)
+#本地运行把上一行的#删掉
